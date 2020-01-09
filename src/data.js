@@ -1005,6 +1005,26 @@ const pages = [
       'Blogger',
     ],
   },
+  {
+    name: 'Felix Leber',
+    description:
+      'Software engineer and Consultant. I built www.gotarsi.com.',
+    url: 'https://gotarsi.com/uses',
+    twitter: '@_Lebsky',
+    emoji: '🧪',
+    country: '🇩🇪',
+    computer: 'apple',
+    phone: 'android',
+    tags: [
+      'Engineer',
+      'Full Stack',
+      'Consultant',
+      'Go',
+      'React',
+      'Kubernetes',
+      'Docker'
+    ],
+  },
 ];
 
 export default pages;
